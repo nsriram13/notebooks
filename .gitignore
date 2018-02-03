@@ -1,0 +1,11 @@
+*.ipynb_checkpoints/
+*.pyc
+*.bz2
+*.mm
+*.csv
+*.txt
+*.index
+*.pb
+*.gz
+*.tar
+*.tar.gz
